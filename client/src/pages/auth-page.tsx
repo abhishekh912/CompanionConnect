@@ -64,7 +64,7 @@ export default function AuthPage() {
             </div>
             <div className="flex items-center gap-2">
               <span className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center">🎯</span>
-              <p>Stay motivated with encouraging messages</p>
+              <p>Stay motivated with encouraging messages!</p>
             </div>
           </div>
         </div>
